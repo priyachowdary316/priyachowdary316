@@ -1,5 +1,5 @@
 ### Hi Developers 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyanka-chowdary-1208a819a/)](https://www.linkedin.com/in/priyanka-chowdary-1208a819a/)
+[![Linkedin Badge](https://img.shields.io/badge/-priyanka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyanka-chowdary-1208a819a/)](https://www.linkedin.com/in/priyanka-chowdary-1208a819a/)
 [![Website Badge](https://img.shields.io/badge/WebSite-priyanka-green)](https://priya2022.github.io/EdurekaIntern/)
 [![Website Badge](https://img.shields.io/badge/WebSite-priyanka-green)](https://www.priyanka)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-priyanka-yellow)](https://stackoverflow.com/users/19622985/priyanka)
